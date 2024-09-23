@@ -1,3 +1,3 @@
 # shoppinglyx
-This is a Static DJango Shopping Website 
+This is a Static DJango Fashion Designing Website 
 
